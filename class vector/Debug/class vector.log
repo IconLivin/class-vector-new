@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: __thiscall matrix<int>::matrix<int>(int)" (??0?$matrix@H@@QAE@H@Z) в функции _main
+C:\Users\1111\Desktop\class vector\Debug\class vector.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
